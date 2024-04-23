@@ -1,0 +1,20 @@
+{
+  "name": "secret-diary-pair-programming-javascript-ethan-gwen",
+  "version": "1.0.0",
+  "description": "![The Secret Diary](images/secret_dairy.png)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "pkg": "^5.8.1"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
